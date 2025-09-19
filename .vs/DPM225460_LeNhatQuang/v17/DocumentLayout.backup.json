@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\DPM225460_LeNhatQuang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{686646A8-DEA0-43A9-B241-C9C5CAC8E79E}|DPM225460_LeNhatQuang_Pattern16_Iterator\\DPM225460_LeNhatQuang_Pattern16_Iterator.csproj|d:\\downloads\\dpm225460_lenhatquang\\dpm225460_lenhatquang_pattern16_iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686646A8-DEA0-43A9-B241-C9C5CAC8E79E}|DPM225460_LeNhatQuang_Pattern16_Iterator\\DPM225460_LeNhatQuang_Pattern16_Iterator.csproj|solutionrelative:dpm225460_lenhatquang_pattern16_iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65958445-AA12-4B93-8849-48391009009F}|DPM225460_LeNhatQuang_Pattern15_Interpreter\\DPM225460_LeNhatQuang_Pattern15_Interpreter.csproj|d:\\downloads\\dpm225460_lenhatquang\\dpm225460_lenhatquang_pattern15_interpreter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65958445-AA12-4B93-8849-48391009009F}|DPM225460_LeNhatQuang_Pattern15_Interpreter\\DPM225460_LeNhatQuang_Pattern15_Interpreter.csproj|solutionrelative:dpm225460_lenhatquang_pattern15_interpreter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A835098C-0140-4A1E-BB6D-DB31826756FD}|DPM225460_LeNhatQuang_Pattern14_Command\\DPM225460_LeNhatQuang_Pattern14_Command.csproj|d:\\downloads\\dpm225460_lenhatquang\\dpm225460_lenhatquang_pattern14_command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A835098C-0140-4A1E-BB6D-DB31826756FD}|DPM225460_LeNhatQuang_Pattern14_Command\\DPM225460_LeNhatQuang_Pattern14_Command.csproj|solutionrelative:dpm225460_lenhatquang_pattern14_command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5DF60C-0EE9-4148-A7DF-3A1F984C96A4}|DPM225460_LeNhatQuang_Pattern13_ChainOfResponsibility\\DPM225460_LeNhatQuang_Pattern13_ChainOfResponsibility.csproj|d:\\downloads\\dpm225460_lenhatquang\\dpm225460_lenhatquang_pattern13_chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5DF60C-0EE9-4148-A7DF-3A1F984C96A4}|DPM225460_LeNhatQuang_Pattern13_ChainOfResponsibility\\DPM225460_LeNhatQuang_Pattern13_ChainOfResponsibility.csproj|solutionrelative:dpm225460_lenhatquang_pattern13_chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC281EE-6489-472D-9CEA-82EAAD9D1F6D}|DPM225460_LeNhatQuang_Pattern12_Proxy\\DPM225460_LeNhatQuang_Pattern12_Proxy.csproj|d:\\downloads\\dpm225460_lenhatquang\\dpm225460_lenhatquang_pattern12_proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC281EE-6489-472D-9CEA-82EAAD9D1F6D}|DPM225460_LeNhatQuang_Pattern12_Proxy\\DPM225460_LeNhatQuang_Pattern12_Proxy.csproj|solutionrelative:dpm225460_lenhatquang_pattern12_proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6751DE64-1ED0-40E1-97A6-553AC35CA941}|DPM225460_LeNhatQuang_Pattern11_Flyweight\\DPM225460_LeNhatQuang_Pattern11_Flyweight.csproj|d:\\downloads\\dpm225460_lenhatquang\\dpm225460_lenhatquang_pattern11_flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6751DE64-1ED0-40E1-97A6-553AC35CA941}|DPM225460_LeNhatQuang_Pattern11_Flyweight\\DPM225460_LeNhatQuang_Pattern11_Flyweight.csproj|solutionrelative:dpm225460_lenhatquang_pattern11_flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72DBC3A-1F1E-41E1-95C5-D0448B7DEC34}|DPM225460_LeNhatQuang_Pattern10_Facade\\DPM225460_LeNhatQuang_Pattern10_Facade.csproj|d:\\downloads\\dpm225460_lenhatquang\\dpm225460_lenhatquang_pattern10_facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72DBC3A-1F1E-41E1-95C5-D0448B7DEC34}|DPM225460_LeNhatQuang_Pattern10_Facade\\DPM225460_LeNhatQuang_Pattern10_Facade.csproj|solutionrelative:dpm225460_lenhatquang_pattern10_facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9A7F59-5ADD-4ED0-9039-AD77909AD0F7}|DPM225460_LeNhatQuang_Pattern09_Decorator\\DPM225460_LeNhatQuang_Pattern09_Decorator.csproj|d:\\downloads\\dpm225460_lenhatquang\\dpm225460_lenhatquang_pattern09_decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9A7F59-5ADD-4ED0-9039-AD77909AD0F7}|DPM225460_LeNhatQuang_Pattern09_Decorator\\DPM225460_LeNhatQuang_Pattern09_Decorator.csproj|solutionrelative:dpm225460_lenhatquang_pattern09_decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern16_Iterator\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225460_LeNhatQuang_Pattern16_Iterator\\Program.cs",
+              "ToolTip": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern16_Iterator\\Program.cs",
+              "RelativeToolTip": "DPM225460_LeNhatQuang_Pattern16_Iterator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:45:59.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern15_Interpreter\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225460_LeNhatQuang_Pattern15_Interpreter\\Program.cs",
+              "ToolTip": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern15_Interpreter\\Program.cs",
+              "RelativeToolTip": "DPM225460_LeNhatQuang_Pattern15_Interpreter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:45:56.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern14_Command\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225460_LeNhatQuang_Pattern14_Command\\Program.cs",
+              "ToolTip": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern14_Command\\Program.cs",
+              "RelativeToolTip": "DPM225460_LeNhatQuang_Pattern14_Command\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:45:54.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern13_ChainOfResponsibility\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225460_LeNhatQuang_Pattern13_ChainOfResponsibility\\Program.cs",
+              "ToolTip": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern13_ChainOfResponsibility\\Program.cs",
+              "RelativeToolTip": "DPM225460_LeNhatQuang_Pattern13_ChainOfResponsibility\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:45:51.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern12_Proxy\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225460_LeNhatQuang_Pattern12_Proxy\\Program.cs",
+              "ToolTip": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern12_Proxy\\Program.cs",
+              "RelativeToolTip": "DPM225460_LeNhatQuang_Pattern12_Proxy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:45:48.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern11_Flyweight\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225460_LeNhatQuang_Pattern11_Flyweight\\Program.cs",
+              "ToolTip": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern11_Flyweight\\Program.cs",
+              "RelativeToolTip": "DPM225460_LeNhatQuang_Pattern11_Flyweight\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:45:44.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern10_Facade\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225460_LeNhatQuang_Pattern10_Facade\\Program.cs",
+              "ToolTip": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern10_Facade\\Program.cs",
+              "RelativeToolTip": "DPM225460_LeNhatQuang_Pattern10_Facade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:45:41.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern09_Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225460_LeNhatQuang_Pattern09_Decorator\\Program.cs",
+              "ToolTip": "D:\\Downloads\\DPM225460_LeNhatQuang\\DPM225460_LeNhatQuang_Pattern09_Decorator\\Program.cs",
+              "RelativeToolTip": "DPM225460_LeNhatQuang_Pattern09_Decorator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T06:45:37.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
